@@ -1,24 +1,3 @@
-# News
-
-## Release dates
-
-  - Citizen Science Skilling for Library Staff, Researchers, and the Public - edited by Jitka Stilund Hansen - Published Nov 2021
-  - Library Infrastructures & Citizen Science edited by Kirsty Wallis - Publishing ETA April 2022
-  - Open Science Practice & Citizen Science edited by Bastian Greshake Tzovaras - Publishing ETA April 2022
-  - Developing Guidelines & Citizen Science edited by Paul Ayris - Publishing ETA Summer 2022 
-  - Collated four part series as one volume: Citizen Science for Research Libraries – A Guide - Publishing ETA Summer 2022 
-
-## New release on its way! Library Infrastructures & Citizen Science 
-
-Section 2: Library Infrastructures & Citizen Science edited by Kirsty Wallis.
-
-![cover cs4rl infra]( https://raw.github.com/cs4rl/guide/main/covers/infrastructure/infra-Perfect-v2.jpg)
-
-## 26 Nov '21 - [Book Launch](announce-nov21.md): Citizen Science Skilling for Library Staff, Researchers, and the Public
-
-# Questions and comments 
-
-See our [discusson board](https://github.com/cs4rl/guide/discussions)
 
 # Book Information
 
@@ -32,8 +11,8 @@ An open access and peer-reviewed book
 
 Section Editor Jitka Stilund Hansen
 
-Part of the four part book series: Citizen Science for Research Libraries — A
-Guide
+Part of the four part book series: [Citizen Science for Research Libraries — A
+Guide](https://github.com/cs4rl/guide)
 
 Published by the [LIBER Citizen Science Working Group](https://libereurope.eu/working-group/liber-citizen-science-working-group/)
 
@@ -79,9 +58,4 @@ Stilund Hansen, and Kirsty Wallis **Co-Editors-in-Chief:** Thomas Kaarsted &
 Simon Worthington **Reviewers:** Sara Decoster & Stefan Wiederkehr.
 
 **Correspondence:** Simon Worthington, <simon.worththington@tib.eu>
-
-## Publishing process
-
-Open Peer Review - https://github.com/cs4rl/production/blob/main/opr.md
-
 
